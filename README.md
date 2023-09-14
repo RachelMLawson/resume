@@ -1,0 +1,1 @@
+This is my resume website, created as part of the Cloud Resume Challenge. It is written in HTML and CSS, and includes my professional credentials and contact information.
